@@ -2,3 +2,6 @@
 test
 
 to nie karol
+=======
+test niesamowitym okolicznoœci zbiegiem, drog¹ tamtejsz¹ dzielny pan Gwidon przeje¿d¿a³. Pos³yszawszy wo³anie niewieœcie, czym prêdzej na odsiecz ruszy³. A choæ gna³, konia zaje¿d¿aj¹c, wiedzieæ nie móg³, ¿e w przeciwn¹ stronê siê uda³. I tak zginê³a nadobna Ma³gorzata œmierci¹ bolesn¹.
+>>>>>>> 993c6729d4b0dbbe30353e67c7fff206a9915272
